@@ -9,7 +9,7 @@ Besides it should applied for extracting the table texts.
       losses.py, define the model of loss function
 * post-processing:  
       nms.py, generate coordinates according binary img  
-      revise.py revise some results from different aspects  
+      revise.py, revise some results from different aspects  
 * predict:  
       predict.py the whole process from one img to one json result  
 * interface:  
