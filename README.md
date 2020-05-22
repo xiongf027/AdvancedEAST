@@ -16,4 +16,4 @@ Besides it should applied for extracting the table texts.
     img2json.py
 
 # DFG
-
+![Image text](https://github.com/xiongf027/AdvancedEAST/blob/master/image/DFD.png)
